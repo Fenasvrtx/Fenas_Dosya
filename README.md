@@ -1,2 +1,5 @@
 # Fenas_Dosya
-Dosya.
+
+Ben Fenas.
+
+Bu bir örnek dosyadır.
