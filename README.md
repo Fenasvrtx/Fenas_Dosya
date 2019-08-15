@@ -1,5 +1,8 @@
 # Fenas_Dosya
+readme_edits
+Dosya.
+weew  ew
 
-Ben Fenas.
-
-Bu bir örnek dosyadır.
+Dosya.
+weew ewfdfe
+master
